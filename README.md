@@ -27,14 +27,42 @@ Explore the project in two formats:
 
 ## Installation
 
-To run the notebook locally, ensure the following libraries are installed:
+To run the notebook locally, ensure the following libraries are installed and ensure you have downloaded the datasets from Kaggle:
 - `numpy`
 - `pandas`
 - `matplotlib`
 - `scipy`
 - `ipywidgets`
 
-Install dependencies via pip:
-```bash
-pip install -r requirements.txt
-```
+## Usage
+Access the interactive notebook:
+   - [Google Colab](https://colab.research.google.com/drive/1uceczJlT-uT6qZnrRkLwd7EdczqUQ_dH)
+   - [Kaggle](https://www.kaggle.com/code/imranbukhari/btcusd-cyclic-period-analysis-with-fft)
+
+---
+
+## Applications
+
+1. **Trading Strategies**:
+   - Identify dominant market cycles to optimize entry/exit points.
+2. **Forecasting**:
+   - Build features for machine learning models by integrating discovered cycles.
+3. **General Data Analysis**:
+   - Apply the methods to any trending dataset to uncover periodic patterns.
+
+---
+
+## Contributions
+
+Contributions, feedback, and suggestions are welcome. Feel free to submit a pull request or open an issue to improve this project.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uceczJlT-uT6qZnrRkLwd7EdczqUQ_dH)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/imranbukhari/btcusd-cyclic-period-analysis-with-fft)
