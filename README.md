@@ -1,3 +1,7 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uceczJlT-uT6qZnrRkLwd7EdczqUQ_dH)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/imranbukhari/btcusd-cyclic-period-analysis-with-fft)
+
+---
 # Dominant Cyclic Period Analysis in Market Data Using FFT
 
 This repository contains a detailed analysis of cyclic patterns in market data using **Fast Fourier Transform (FFT)** methods. The project identifies both known and hidden periodic cycles in time series data, demonstrating applications in financial market analysis, forecasting, and machine learning.
