@@ -4,7 +4,7 @@
 ---
 # Dominant Cyclic Period Analysis in Market Data Using FFT
 
-This repository contains a detailed analysis of cyclic patterns in market data using **Fast Fourier Transform (FFT)** methods. The project identifies both known and hidden periodic cycles in time series data, demonstrating applications in financial market analysis, forecasting, and machine learning.
+This repository contains a detailed analysis of cyclic patterns in market data using **Fast Fourier Transform (FFT)** methods with the Python Scipy library. The project identifies both known and hidden periodic cycles in time series data, demonstrating applications in financial market analysis, forecasting, and machine learning.
 
 ## Overview
 
